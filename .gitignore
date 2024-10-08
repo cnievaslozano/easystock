@@ -1,3 +1,6 @@
+.$diagram_bd.drawio.bkp
+.$diagram_bd.drawio.dtmp
+
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
